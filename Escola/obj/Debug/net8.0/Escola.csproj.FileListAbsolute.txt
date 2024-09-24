@@ -1,0 +1,17 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Escola.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Escola.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Escola.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Escola.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Escola.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.csproj.Up2Date
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\refint\Escola.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\Escola.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\ProjetosPraticaC#\Desafio_2\Escola\obj\Debug\net8.0\ref\Escola.dll
